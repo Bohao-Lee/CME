@@ -1,0 +1,13 @@
+metayolo=1
+metain_type=2
+data=voc
+neg = 1
+rand = 0
+novel = data/voc_novels_split3.txt
+novelid = 0
+# scale = 0
+meta = data/voc_traindict_full.txt
+train = /home/ubuntu/Dataset/VOC_Fewshot_Detection/voc_train.txt
+valid = /home/ubuntu/Dataset/VOC_Fewshot_Detection/2007_test.txt
+backup = backup/metayolo
+gpus=0,1
