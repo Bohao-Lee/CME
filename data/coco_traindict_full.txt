@@ -1,0 +1,80 @@
+person /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_person_train.txt
+bicycle /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bicycle_train.txt
+car /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_car_train.txt
+motorbike /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_motorbike_train.txt
+aeroplane /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_aeroplane_train.txt
+bus /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bus_train.txt
+train /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_train_train.txt
+truck /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_truck_train.txt
+boat /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_boat_train.txt
+traffic light /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_traffic light_train.txt
+fire hydrant /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_fire hydrant_train.txt
+stop sign /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_stop sign_train.txt
+parking meter /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_parking meter_train.txt
+bench /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bench_train.txt
+bird /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bird_train.txt
+cat /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_cat_train.txt
+dog /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_dog_train.txt
+horse /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_horse_train.txt
+sheep /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_sheep_train.txt
+cow /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_cow_train.txt
+elephant /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_elephant_train.txt
+bear /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bear_train.txt
+zebra /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_zebra_train.txt
+giraffe /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_giraffe_train.txt
+backpack /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_backpack_train.txt
+umbrella /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_umbrella_train.txt
+handbag /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_handbag_train.txt
+tie /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_tie_train.txt
+suitcase /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_suitcase_train.txt
+frisbee /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_frisbee_train.txt
+skis /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_skis_train.txt
+snowboard /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_snowboard_train.txt
+sports ball /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_sports ball_train.txt
+kite /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_kite_train.txt
+baseball bat /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_baseball bat_train.txt
+baseball glove /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_baseball glove_train.txt
+skateboard /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_skateboard_train.txt
+surfboard /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_surfboard_train.txt
+tennis racket /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_tennis racket_train.txt
+bottle /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bottle_train.txt
+wine glass /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_wine glass_train.txt
+cup /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_cup_train.txt
+fork /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_fork_train.txt
+knife /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_knife_train.txt
+spoon /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_spoon_train.txt
+bowl /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bowl_train.txt
+banana /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_banana_train.txt
+apple /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_apple_train.txt
+sandwich /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_sandwich_train.txt
+orange /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_orange_train.txt
+broccoli /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_broccoli_train.txt
+carrot /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_carrot_train.txt
+hot dog /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_hot dog_train.txt
+pizza /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_pizza_train.txt
+donut /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_donut_train.txt
+cake /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_cake_train.txt
+chair /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_chair_train.txt
+sofa /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_sofa_train.txt
+pottedplant /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_pottedplant_train.txt
+bed /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_bed_train.txt
+diningtable /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_diningtable_train.txt
+toilet /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_toilet_train.txt
+tvmonitor /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_tvmonitor_train.txt
+laptop /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_laptop_train.txt
+mouse /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_mouse_train.txt
+remote /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_remote_train.txt
+keyboard /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_keyboard_train.txt
+cell phone /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_cell phone_train.txt
+microwave /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_microwave_train.txt
+oven /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_oven_train.txt
+toaster /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_toaster_train.txt
+sink /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_sink_train.txt
+refrigerator /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_refrigerator_train.txt
+book /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_book_train.txt
+clock /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_clock_train.txt
+vase /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_vase_train.txt
+scissors /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_scissors_train.txt
+teddy bear /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_teddy bear_train.txt
+hair drier /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_hair drier_train.txt
+toothbrush /home/ubuntu/Fewshot_Detection/Fewshot_Detection/data/cocosplit/full_toothbrush_train.txt
