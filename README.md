@@ -30,7 +30,7 @@ You can download the pretrained weight by [Google Drive](https://drive.google.co
 
 ```
 @InProceedings{Li_2021_CVPR,
-  author = {Li, Bohao and Yang, Boyu and Liu, Chang and Liu, Feng and Ji Rongrong and Ye, Qixiang},
+  author = {Bohao Li, Boyu Yang, Chang Liu, Feng Liu, Rongrong Ji and Qixiang Ye},
   title = {Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection},
   booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   month = {June},
