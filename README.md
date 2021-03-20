@@ -1,6 +1,6 @@
 # CME
 ## Introduction
-The code includes training and inference procedures for **Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection(CVPR2021).
+The code includes training and inference procedures for **Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection**(CVPR2021).
 
 Our code is based on https://github.com/bingykang/Fewshot_Detection and developed with Python 3.6.5 & PyTorch 1.1.0.
 ## Training our model on VOC
