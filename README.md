@@ -3,7 +3,7 @@
 This repository is built upon [Meta YOLO](https://github.com/bingykang/Fewshot_Detection)
 
 # Introduction
-This is the officical of [Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection](https://arxiv.org/pdf/2103.04612.pdf).
+This is the officical code of [Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection](https://arxiv.org/pdf/2103.04612.pdf).
 
 Few-shot object detection has made substantial progress by representing novel class objects using the feature representation learned upon a set of base class objects.
 However, an implicit contradiction between novel class classification and representation is unfortunately ignored. 
@@ -89,7 +89,7 @@ Also you may need to generate new few-shot datasets Change the ''DROOT'' varibal
 python scripts/gen_fewlist.py
 ```
 
-##Training and test
+## Training and test
 
 ### Modify base training cfg file and finetune cfg file
 
