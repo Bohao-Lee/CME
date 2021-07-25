@@ -146,7 +146,7 @@ class Darknet(nn.Module):
                 metax = metax.unsqueeze(2)
                 metax = metax.unsqueeze(3)
                 metax_decoupling = [metax]
-                return dynamic_weights,[metax.data]
+                return dynamic_weights,[metax]
             else:
                 print('unknown type %s' % (learnet_block['type']))
 
