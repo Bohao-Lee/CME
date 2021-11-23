@@ -1,6 +1,7 @@
 # Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection
 
-This repository is built upon [Meta YOLO](https://github.com/bingykang/Fewshot_Detection)
+This repository is built upon [Meta YOLO](https://github.com/bingykang/Fewshot_Detection).
+Second version [CDE](https://github.com/Bohao-Lee/CDE) will coming soon.
 
 # Introduction
 This is the officical code of [Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection](https://arxiv.org/pdf/2103.04612.pdf).
